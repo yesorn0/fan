@@ -96,4 +96,4 @@ ISP 프로그래머를 이용해 ATmega128A에 업로드
 
 ## 📧 연락처
 궁금한 점이나 제안 사항이 있으신가요?
-[yesorn0] - [ajh0703@gmai.com]
+[yesorn0] - [ajh0703@gmail.com]
