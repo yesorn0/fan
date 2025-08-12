@@ -83,7 +83,8 @@ ISP 프로그래머를 이용해 ATmega128A에 업로드
   
   PWM: 100%
 
-![Uploading 20250224_155855.gif…]()
+![20250224_155855](https://github.com/user-attachments/assets/b9a40e98-dc03-4b8f-ba7a-4f6503e5b539)
+
 
 
 ---
