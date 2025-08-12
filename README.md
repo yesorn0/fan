@@ -71,6 +71,9 @@ ISP 프로그래머를 이용해 ATmega128A에 업로드
   
   PWM: 50%
 
+![Uploading 20250224_155855.gif…]()
+
+
 ### 3.강풍 모드
 
   버튼: PE6
@@ -78,6 +81,8 @@ ISP 프로그래머를 이용해 ATmega128A에 업로드
   FND: "2"
   
   PWM: 100%
+
+![Uploading 20250224_160041.gif…]()
 
 ---
 
@@ -88,4 +93,4 @@ ISP 프로그래머를 이용해 ATmega128A에 업로드
 
 ## 📧 연락처
 궁금한 점이나 제안 사항이 있으신가요?
-[yesorn0] - [your-email@example.com]
+[yesorn0] - [ajh0703@gmai.com]
