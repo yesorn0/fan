@@ -71,7 +71,8 @@ ISP 프로그래머를 이용해 ATmega128A에 업로드
   
   PWM: 50%
 
-![Uploading 20250224_155855.gif…]()
+![20250224_160041](https://github.com/user-attachments/assets/417fb358-dff0-4ced-8abd-86bbd43eeca2)
+
 
 
 ### 3.강풍 모드
@@ -82,7 +83,8 @@ ISP 프로그래머를 이용해 ATmega128A에 업로드
   
   PWM: 100%
 
-![Uploading 20250224_160041.gif…]()
+![Uploading 20250224_155855.gif…]()
+
 
 ---
 
